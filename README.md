@@ -1,4 +1,6 @@
 # PastorsSuite
+
+[![Join the chat at https://gitter.im/PastorSuite/PastorsDesk](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/PastorSuite/PastorsDesk?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 PastorsSuite is a set of applications that allows control over various aspect of a functioning church. Although primarily targeted towards church services, this software can be used in any place that may need help with managment using software.
 
 ### PastorsDesk
